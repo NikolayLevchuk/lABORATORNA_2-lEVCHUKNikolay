@@ -1,4 +1,9 @@
 # lABORATORNA_2-lEVCHUKNikolay
+
+
+
+
+
 static void Main(string[] args)
         {
             double u = 0;
